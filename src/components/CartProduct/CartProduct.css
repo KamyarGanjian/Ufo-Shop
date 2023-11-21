@@ -12,7 +12,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 52%;
+    width: 54%;
 }
 
 .cart-item {
@@ -66,5 +66,11 @@
 @media screen and (max-width: 750px) {
     .cart-item-title {
         display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .eshkemdard{
+        width: 56%;
     }
 }

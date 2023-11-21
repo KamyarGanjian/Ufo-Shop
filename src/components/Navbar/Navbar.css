@@ -64,4 +64,8 @@
         font-weight: bolder;
         cursor: default;
     }
+    .nav{
+        justify-content: space-between;
+        padding: 1rem 3%;
+    }
 }
