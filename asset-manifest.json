@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ufo-Shop/static/css/main.87e27a7d.css",
+    "main.css": "/Ufo-Shop/static/css/main.82b3bbe0.css",
     "main.js": "/Ufo-Shop/static/js/main.08a67b2e.js",
     "static/media/daniel-olah-HNkgPFBShSw-unsplash.jpg": "/Ufo-Shop/static/media/daniel-olah-HNkgPFBShSw-unsplash.79dc90efc8aecc36d166.jpg",
     "static/media/purse.webp": "/Ufo-Shop/static/media/purse.68233fe9cdd226383798.webp",
@@ -16,11 +16,11 @@
     "static/media/action-figure.webp": "/Ufo-Shop/static/media/action-figure.3117aa8a2ac86fa0513b.webp",
     "static/media/flash.webp": "/Ufo-Shop/static/media/flash.d43f541463fdbd1331de.webp",
     "index.html": "/Ufo-Shop/index.html",
-    "main.87e27a7d.css.map": "/Ufo-Shop/static/css/main.87e27a7d.css.map",
+    "main.82b3bbe0.css.map": "/Ufo-Shop/static/css/main.82b3bbe0.css.map",
     "main.08a67b2e.js.map": "/Ufo-Shop/static/js/main.08a67b2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.87e27a7d.css",
+    "static/css/main.82b3bbe0.css",
     "static/js/main.08a67b2e.js"
   ]
 }
