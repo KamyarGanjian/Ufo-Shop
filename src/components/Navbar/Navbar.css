@@ -1,0 +1,48 @@
+.nav {
+    background-image: url(../../../public/images/daniel-olah-HNkgPFBShSw-unsplash.jpg);
+    background-color: transparent;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem 10%;
+    font-family: 'poppins', sans-serif;
+    margin-bottom: 5px;
+}
+
+.site-title {
+    font-size: xx-large;
+    font-weight: bolder;
+    cursor: default;
+}
+
+.nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.nav a {
+    color: inherit;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: .25rem;
+}
+
+.nav li {
+    font-size: large;
+    font-weight: bold;
+}
+
+.nav li:hover {
+    color: aqua;
+}
+
+.icon {
+    margin-right: 5px;
+}
