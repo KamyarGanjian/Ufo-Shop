@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ufo-Shop/static/css/main.1e4c65e5.css",
-    "main.js": "/Ufo-Shop/static/js/main.b3f1380f.js",
+    "main.css": "/Ufo-Shop/static/css/main.efe1e2f5.css",
+    "main.js": "/Ufo-Shop/static/js/main.e9554445.js",
     "static/media/daniel-olah-HNkgPFBShSw-unsplash.jpg": "/Ufo-Shop/static/media/daniel-olah-HNkgPFBShSw-unsplash.79dc90efc8aecc36d166.jpg",
     "static/media/purse.webp": "/Ufo-Shop/static/media/purse.68233fe9cdd226383798.webp",
     "static/media/laptob.webp": "/Ufo-Shop/static/media/laptob.4d4b218cf9be482f634a.webp",
@@ -16,11 +16,11 @@
     "static/media/action-figure.webp": "/Ufo-Shop/static/media/action-figure.3117aa8a2ac86fa0513b.webp",
     "static/media/flash.webp": "/Ufo-Shop/static/media/flash.d43f541463fdbd1331de.webp",
     "index.html": "/Ufo-Shop/index.html",
-    "main.1e4c65e5.css.map": "/Ufo-Shop/static/css/main.1e4c65e5.css.map",
-    "main.b3f1380f.js.map": "/Ufo-Shop/static/js/main.b3f1380f.js.map"
+    "main.efe1e2f5.css.map": "/Ufo-Shop/static/css/main.efe1e2f5.css.map",
+    "main.e9554445.js.map": "/Ufo-Shop/static/js/main.e9554445.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e4c65e5.css",
-    "static/js/main.b3f1380f.js"
+    "static/css/main.efe1e2f5.css",
+    "static/js/main.e9554445.js"
   ]
 }
