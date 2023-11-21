@@ -60,10 +60,8 @@
     }
 
     .site-title {
-        display: none;
-    }
-
-    .res-title {
-        display: flex;
+        font-size: large;
+        font-weight: bolder;
+        cursor: default;
     }
 }
