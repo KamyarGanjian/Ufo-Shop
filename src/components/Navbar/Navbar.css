@@ -60,8 +60,13 @@
         font-weight: bolder;
         cursor: default;
     }
-    .nav{
+
+    .nav {
         justify-content: space-between;
         padding: 1rem 2%;
+    }
+
+    .icon {
+        margin-right: 1px;
     }
 }
