@@ -46,3 +46,9 @@
 .icon {
     margin-right: 5px;
 }
+
+@media screen and (max-width: 400px) {
+    .icon {
+        display: none;
+    }
+}
