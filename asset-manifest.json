@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ufo-Shop/static/css/main.fef7b96f.css",
+    "main.js": "/Ufo-Shop/static/js/main.e7062119.js",
+    "static/media/daniel-olah-HNkgPFBShSw-unsplash.jpg": "/Ufo-Shop/static/media/daniel-olah-HNkgPFBShSw-unsplash.79dc90efc8aecc36d166.jpg",
+    "static/media/purse.webp": "/Ufo-Shop/static/media/purse.68233fe9cdd226383798.webp",
+    "static/media/laptob.webp": "/Ufo-Shop/static/media/laptob.4d4b218cf9be482f634a.webp",
+    "static/media/backpack.webp": "/Ufo-Shop/static/media/backpack.5d8d4967bdf93bf3e6d9.webp",
+    "static/media/shoes.webp": "/Ufo-Shop/static/media/shoes.704079ada2aa0f2a2ba6.webp",
+    "static/media/t-shirt.webp": "/Ufo-Shop/static/media/t-shirt.c97faa5f8461adb84b7d.webp",
+    "static/media/iphone.webp": "/Ufo-Shop/static/media/iphone.4f7391197df808637e8e.webp",
+    "static/media/headphone.webp": "/Ufo-Shop/static/media/headphone.1197a7da0a9a5d02f86b.webp",
+    "static/media/apple-watch.webp": "/Ufo-Shop/static/media/apple-watch.d764a4475239fd1d56d5.webp",
+    "static/media/air-pod.webp": "/Ufo-Shop/static/media/air-pod.2999430d2d715bad5a07.webp",
+    "static/media/flower-pot.webp": "/Ufo-Shop/static/media/flower-pot.5aeb386c58567de3cf8e.webp",
+    "static/media/action-figure.webp": "/Ufo-Shop/static/media/action-figure.3117aa8a2ac86fa0513b.webp",
+    "static/media/flash.webp": "/Ufo-Shop/static/media/flash.d43f541463fdbd1331de.webp",
+    "index.html": "/Ufo-Shop/index.html",
+    "main.fef7b96f.css.map": "/Ufo-Shop/static/css/main.fef7b96f.css.map",
+    "main.e7062119.js.map": "/Ufo-Shop/static/js/main.e7062119.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef7b96f.css",
+    "static/js/main.e7062119.js"
+  ]
+}
