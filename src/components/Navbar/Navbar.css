@@ -52,6 +52,7 @@
 
 .icon-nav {
     margin-right: 5px;
+    font-size: 45px;
 }
 
 @media screen and (max-width: 400px) {
@@ -63,7 +64,7 @@
 
     .nav {
         justify-content: space-between;
-        padding: 1rem 2%;
+        padding: 1rem 3%;
     }
 
     .icon-nav {
