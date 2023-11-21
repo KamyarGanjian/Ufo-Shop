@@ -52,7 +52,7 @@
 
 .icon-nav {
     margin-right: 5px;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 @media screen and (max-width: 400px) {
@@ -70,5 +70,6 @@
     .icon-nav {
         margin-right: 2px;
         margin-left: 2px;
+        font-size: 22px;
     }
 }
