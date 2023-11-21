@@ -51,4 +51,10 @@
     .icon {
         display: none;
     }
+
+    .site-title {
+        font-size: large;
+        font-weight: bolder;
+        cursor: default;
+    }
 }
