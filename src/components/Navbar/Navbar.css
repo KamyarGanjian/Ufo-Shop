@@ -17,6 +17,13 @@
     cursor: default;
 }
 
+.res-title {
+    font-size: xx-large;
+    font-weight: bolder;
+    cursor: default;
+    display: none;
+}
+
 .nav ul {
     padding: 0;
     margin: 0;
@@ -53,8 +60,10 @@
     }
 
     .site-title {
-        font-size: large;
-        font-weight: bolder;
-        cursor: default;
+        display: none;
+    }
+
+    .res-title {
+        display: flex;
     }
 }
