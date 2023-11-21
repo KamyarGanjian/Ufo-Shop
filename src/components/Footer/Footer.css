@@ -138,4 +138,8 @@ a {
         font-size: 27px;
         line-height: 38px;
     }
+
+    .section_padding {
+        padding: 4rem 2rem;
+    }
 }
